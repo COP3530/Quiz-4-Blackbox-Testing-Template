@@ -1,3 +1,4 @@
+// Note - the autograder expects this exact include for your catch code! If you use the manual catch compilation method, be sure you put this include back before submitting.
 #include <catch2/catch_test_macros.hpp>
 
 #include "GatorBST.h"
