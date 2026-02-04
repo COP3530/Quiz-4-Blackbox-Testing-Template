@@ -32,4 +32,4 @@ target_link_libraries(DummyTests PRIVATE Catch2::Catch2WithMain) #link catch to 
 # comment everything below out if you are using CLion
 include(CTest)
 include(Catch)
-catch_discover_tests(Tests) # must be named the same as your test executable
+catch_discover_tests(DummyTests) # must be named the same as your test executable
